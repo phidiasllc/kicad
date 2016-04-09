@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name phidias)(type KiCad)(uri ../phidias.pretty)(options "")(descr ""))
+)
